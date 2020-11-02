@@ -1,0 +1,11 @@
+C:\codebitsacademy\C-Sharp\LabtaskInhert\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.exe
+C:\codebitsacademy\C-Sharp\LabtaskInhert\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.deps.json
+C:\codebitsacademy\C-Sharp\LabtaskInhert\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.runtimeconfig.json
+C:\codebitsacademy\C-Sharp\LabtaskInhert\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.runtimeconfig.dev.json
+C:\codebitsacademy\C-Sharp\LabtaskInhert\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.dll
+C:\codebitsacademy\C-Sharp\LabtaskInhert\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.pdb
+C:\codebitsacademy\C-Sharp\LabtaskInhert\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.csprojAssemblyReference.cache
+C:\codebitsacademy\C-Sharp\LabtaskInhert\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.AssemblyInfoInputs.cache
+C:\codebitsacademy\C-Sharp\LabtaskInhert\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.AssemblyInfo.cs
+C:\codebitsacademy\C-Sharp\LabtaskInhert\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.dll
+C:\codebitsacademy\C-Sharp\LabtaskInhert\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.pdb
